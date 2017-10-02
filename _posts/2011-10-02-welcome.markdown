@@ -1,0 +1,16 @@
+---
+author: Tom
+comments: true
+date: 2011-10-02 15:31:00+00:00
+layout: post
+link: http://www.tholden.org/2011/10/02/welcome/
+slug: welcome
+title: Welcome
+wordpress_id: 70
+categories:
+- 2011-12
+---
+
+Welcome to this blog. On it will be posted all of the slides and reading material for my Industrial Organisation teaching. Feel free to comment on posts with any corrections or feedback.  
+  
+For more on my work, see [http://www.tholden.org/](http://www.tholden.org/) .
